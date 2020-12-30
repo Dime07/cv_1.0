@@ -1,0 +1,137 @@
+.wrap-container{
+    overflow: hidden;
+
+}
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #606060;
+    scroll-behavior: smooth;
+}
+
+.menu{
+    background: #8644F1;
+    padding: 0px;
+}
+
+.nama{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+#banner_isi{
+    font-size: 20px;
+}
+
+body{
+    color: #606060;
+    scroll-behavior: smooth;
+}
+
+#banner{
+    padding: 95px;
+    color: white;
+}
+
+.awalan{
+    
+    background: linear-gradient(to bottom, rgba(29, 29, 29, 0.52), rgba(77, 77, 77, 0.73)),url(gambar/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bio{
+   padding-top: 30px;
+   margin-left: 55px;
+}
+
+.portofolio{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.porto{
+    color: #2886F8;
+    font-weight: bold;
+    font-size: 40px;
+    ;
+}
+
+
+
+.judul-porto{
+    color: #2886F8;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.isi-porto{
+    font-size: 18px;
+}
+
+.kebutuhan{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background: url(gambar/background\ 2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.butuh{
+    color:white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.butuh-isi{
+    color: white;
+    font-size: 22px;
+}
+
+.penutup{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: url(gambar/terimakasih.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.kaki{
+    background-color:#8644F1 ;
+    color: white;
+}
+
+.makasih{
+    font-size: 38px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #2886F8
+}
+
+.email{
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #8644F1;
+}
+
+/*Halaman logo*/
+
+#judul-atas{
+    padding-top: 60px;
+}
+
+#logo{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.portofolio-2{
+    padding-top: 60px;
+    padding-bottom: 65px;
+}
